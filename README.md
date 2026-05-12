@@ -59,11 +59,11 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 <img src="https://img.shields.io/badge/-IBM_Ethical_Hacking-0052CC?style=for-the-badge&logo=ibm&logoColor=white" />
 </a>
 
-<a href="PASTE_YOUR_NETWORK_CERT_LINK_HERE">
+<a href="https://coursera.org/share/2516cad67c0ad8699278c6e5ced62690">
 <img src="https://img.shields.io/badge/-Network_Fundamentals-007ACC?style=for-the-badge" />
 </a>
 
-<a href="PASTE_YOUR_SOC_CERT_LINK_HERE">
+<a href="https://coursera.org/share/6ac5ca8714e7004a901ada1b6d6eca79">
 <img src="https://img.shields.io/badge/-Cybersecurity_Operations-000000?style=for-the-badge" />
 </a>
 </div>
