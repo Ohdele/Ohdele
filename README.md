@@ -55,9 +55,17 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 [Provide certifications that you have obtained. Use chatgpt to help create the link]
 
 <div>
+<a href="https://coursera.org/share/d92cbfdb7e66928d2f39c451e99b54bc">
 <img src="https://img.shields.io/badge/-IBM_Ethical_Hacking-0052CC?style=for-the-badge&logo=ibm&logoColor=white" />
+</a>
+
+<a href="PASTE_YOUR_NETWORK_CERT_LINK_HERE">
 <img src="https://img.shields.io/badge/-Network_Fundamentals-007ACC?style=for-the-badge" />
+</a>
+
+<a href="PASTE_YOUR_SOC_CERT_LINK_HERE">
 <img src="https://img.shields.io/badge/-Cybersecurity_Operations-000000?style=for-the-badge" />
+</a>
 </div>
 
 
