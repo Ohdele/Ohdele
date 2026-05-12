@@ -26,20 +26,29 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 
 ### Network
 <div>
+<a href="https://www.wireshark.org">
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</a>
+
+<a href="https://nmap.org">
 <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge" />
+</a>
 </div>
 
 ### Endpoint
 - Windows Event Viewer
 - Sysmon
 <div>
+<a href="https://limacharlie.io">
 <img src="https://img.shields.io/badge/-LimaCharlie-6A1B9A?style=for-the-badge" />
+</a>
 </div>
 
 ### SIEM
 <div>
+<a href="https://www.splunk.com">
 <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+</a>
 </div>
 
 ## Certifications
