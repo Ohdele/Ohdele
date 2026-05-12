@@ -1,6 +1,9 @@
 ## Hi, I'm Dele
 
-[LinkedIn](https://www.linkedin.com/in/ayodele-adesina-72a9b82b3/)
+<a href="https://www.linkedin.com/in/ayodele-adesina-72a9b82b3/">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 
 [Brief Introduction]
 I am a recent cybersecurity practitioner with a strong interest in technology and a dedication to solving complex security and infrastructure problems.
@@ -58,5 +61,6 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 Designed a SOC pipeline for log ingestion, threat detection, and alerting using SIEM workflows and automation logic.
 
 ### SOAR + EDR Integration
+
 Integrated SOAR workflows with endpoint detection tools to simulate incident response automation and security orchestration.
 
