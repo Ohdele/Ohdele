@@ -5,7 +5,6 @@
 </a>
 
 
-[Brief Introduction]
 I am a recent cybersecurity practitioner with a strong interest in technology and a dedication to solving complex security and infrastructure problems.
 
 ## Objective
