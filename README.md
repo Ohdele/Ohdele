@@ -35,12 +35,12 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 </div>
 
 ### Endpoint
-- Windows Event Viewer
-- Sysmon
 <div>
-<a href="https://limacharlie.io">
-<img src="https://img.shields.io/badge/-LimaCharlie-6A1B9A?style=for-the-badge" />
-</a>
+  <img src="https://img.shields.io/badge/Windows_Event_Viewer-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sysmon-333333?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <a href="https://limacharlie.io">
+    <img src="https://img.shields.io/badge/-LimaCharlie-6A1B9A?style=for-the-badge" />
+  </a>
 </div>
 
 ### SIEM
