@@ -51,20 +51,19 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use chatgpt to help create the link]
 
 <div>
-<a href="https://coursera.org/share/d92cbfdb7e66928d2f39c451e99b54bc">
-<img src="https://img.shields.io/badge/-IBM_Ethical_Hacking-0052CC?style=for-the-badge&logo=ibm&logoColor=white" />
-</a>
+  <a href="https://coursera.org/share/d92cbfdb7e66928d2f39c451e99b54bc" target="_blank">
+    <img src="https://img.shields.io/badge/-IBM_Ethical_Hacking-0052CC?style=for-the-badge&logo=ibm&logoColor=white" />
+  </a>
 
-<a href="https://coursera.org/share/2516cad67c0ad8699278c6e5ced62690">
-<img src="https://img.shields.io/badge/-Network_Fundamentals-007ACC?style=for-the-badge" />
-</a>
+  <a href="https://coursera.org/share/2516cad67c0ad8699278c6e5ced62690" target="_blank">
+    <img src="https://img.shields.io/badge/-Network_Fundamentals-007ACC?style=for-the-badge" />
+  </a>
 
-<a href="https://coursera.org/share/6ac5ca8714e7004a901ada1b6d6eca79">
-<img src="https://img.shields.io/badge/-Cybersecurity_Operations-000000?style=for-the-badge" />
-</a>
+  <a href="https://coursera.org/share/6ac5ca8714e7004a901ada1b6d6eca79" target="_blank">
+    <img src="https://img.shields.io/badge/-Cybersecurity_Operations-000000?style=for-the-badge" />
+  </a>
 </div>
 
 
