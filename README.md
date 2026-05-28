@@ -14,7 +14,7 @@ My journey in Information Technology has shaped a strong interest in Cybersecuri
 
 Skill                                      | Associated Project
 ------------------------------------------ | -------------------------------------------------------
-Active Directory Administration & Security | <a href="https://github.com/Ohdele/AD-Homelab">AD Homelab</a>
+Active Directory Administration & Security | <a href="https://github.com/Ohdele/AD-HOMELAB-PROJECT">AD Homelab Project</a>
 SIEM Monitoring and SOC Analysis           | <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
 Security Automation & Orchestration (SOAR) | <a href="https://github.com/Ohdele/SOAR-EDR-Integration">SOAR + EDR Integration</a>
 Incident Detection and Response            | <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
@@ -36,6 +36,7 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 
 ### Endpoint
 <div>
+  <img src="https://img.shields.io/badge/Windows_Server_w%2F_Active_Directory-0078D4?style=for-the-badge&logo=windows-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows_Event_Viewer-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Sysmon-333333?style=for-the-badge&logo=windows-terminal&logoColor=white" />
   <a href="https://limacharlie.io">
@@ -53,8 +54,12 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 ## Certifications
 
 <div>
-  <a href="https://coursera.org/share/d92cbfdb7e66928d2f39c451e99b54bc" target="_blank">
-    <img src="https://img.shields.io/badge/-IBM_Ethical_Hacking-0052CC?style=for-the-badge&logo=ibm&logoColor=white" />
+  <a href="YOUR_AZ500_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/-Microsoft_AZ--500-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
+
+  <a href="https://coursera.org/verify/professional-cert/I8HQ4CAXYRN5" target="_blank">
+    <img src="https://img.shields.io/badge/-IBM_Cybersecurity_Analyst-0052CC?style=for-the-badge&logo=ibm&logoColor=white" />
   </a>
 
   <a href="https://coursera.org/share/2516cad67c0ad8699278c6e5ced62690" target="_blank">
@@ -70,7 +75,7 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 ## Projects
 
 ### AD Homelab
-### <a href="https://github.com/Ohdele/AD-Homelab">AD Homelab</a>
+### <a href="https://github.com/Ohdele/AD-HOMELAB-PROJECT">AD Homelab Project</a>
 
 ### SOC Automation with AI
 Designed a SOC pipeline for log ingestion, threat detection, and alerting using SIEM workflows and automation logic.
