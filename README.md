@@ -54,12 +54,8 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 ## Certifications
 
 <div>
-  <a href="YOUR_AZ500_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/-Microsoft_AZ--500-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  </a>
-
-  <a href="https://coursera.org/verify/professional-cert/I8HQ4CAXYRN5" target="_blank">
-    <img src="https://img.shields.io/badge/-IBM_Cybersecurity_Analyst-0052CC?style=for-the-badge&logo=ibm&logoColor=white" />
+  <a href="https://coursera.org/share/d92cbfdb7e66928d2f39c451e99b54bc" target="_blank">
+    <img src="https://img.shields.io/badge/-IBM_Ethical_Hacking-0052CC?style=for-the-badge&logo=ibm&logoColor=white" />
   </a>
 
   <a href="https://coursera.org/share/2516cad67c0ad8699278c6e5ced62690" target="_blank">
@@ -68,6 +64,10 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 
   <a href="https://coursera.org/share/6ac5ca8714e7004a901ada1b6d6eca79" target="_blank">
     <img src="https://img.shields.io/badge/-Cybersecurity_Operations-000000?style=for-the-badge" />
+  </a>
+
+  <a href="https://coursera.org/share/00c0d5a8c574b7c7dbb98ef63ba8bbb0" target="_blank">
+    <img src="https://img.shields.io/badge/-Microsoft_AZ--500-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>
 </div>
 
