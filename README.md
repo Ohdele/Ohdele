@@ -74,7 +74,6 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 
 ## Projects
 
-### AD Homelab
 ### <a href="https://github.com/Ohdele/AD-HOMELAB-PROJECT">AD Homelab Project</a>
 
 ### SOC Automation with AI
