@@ -78,7 +78,8 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 ### <a href="https://github.com/Ohdele/AD-HOMELAB-PROJECT">AD Homelab Project</a>
 
 ### SOC Automation with AI
-Designed a SOC pipeline for log ingestion, threat detection, and alerting using SIEM workflows and automation logic.
+### <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
+Built an automated incident response pipeline utilizing n8n to ingest Splunk SIEM alerts, execute dynamic threat intelligence enrichment via AbuseIPDB API, perform AI-driven risk analysis using Google Gemini, and deliver structured, actionable alerts directly to Slack.
 
 ### SOAR + EDR Integration
 
