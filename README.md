@@ -75,7 +75,7 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 ## Projects
 
 ### <a href="https://github.com/Ohdele/AD-HOMELAB-PROJECT">AD Homelab Project</a>
-
+Deployed an Active Directory network (DFIR.local) with a Windows Server Domain Controller and a Windows 10 client, establishing a centralized telemetry pipeline via Sysmon and Splunk Universal Forwarder to an Ubuntu-hosted Splunk SIEM instance. Executed RDP brute-force simulations with Hydra and simulated MITRE ATT&CK persistence techniques using Atomic Red Team to analyze Windows Event logs (EventCode 4625/4624) and validate defensive monitoring capabilities.
 
 ### <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
 Built an automated incident response pipeline utilizing n8n to ingest Splunk SIEM alerts, execute dynamic threat intelligence enrichment via AbuseIPDB API, perform AI-driven risk analysis using Google Gemini, and deliver structured, actionable alerts directly to Slack.
