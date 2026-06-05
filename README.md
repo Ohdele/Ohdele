@@ -10,6 +10,7 @@ I am a recent cybersecurity practitioner with a strong interest in technology an
 ## Objective
 My journey in Information Technology has shaped a strong interest in Cybersecurity, and I am aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+
 ## Skills
 
 Skill                                      | Associated Project
@@ -19,6 +20,7 @@ SIEM Monitoring and SOC Analysis           | <a href="https://github.com/Ohdele/
 Security Automation & Orchestration (SOAR) | <a href="https://github.com/Ohdele/SOAR-EDR-Integration">SOAR + EDR Integration</a>
 Incident Detection and Response            | <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
 Threat Detection Engineering               | <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
+
 
 ## Tools
 [Provide tools and break them down into categories. Use chatgpt to help create the link]
@@ -49,7 +51,25 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 <a href="https://www.splunk.com">
 <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </a>
+
+  <a href="https://n8n.io">
+  <img src="https://img.shields.io/badge/-n8n_(Docker_SOAR)-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+</a>
 </div>
+
+### API
+<div>
+  <a href="https://deepmind.google/technologies/gemini/">
+    <img src="https://img.shields.io/badge/-Google_Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  </a>
+  <a href="https://www.abuseipdb.com">
+    <img src="https://img.shields.io/badge/-AbuseIPDB_API-FF3333?style=for-the-badge" />
+  </a>
+  <a href="https://slack.com">
+    <img src="https://img.shields.io/badge/-Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  </a>
+</div>
+
 
 ## Certifications
 
