@@ -5,10 +5,10 @@
 </a>
 
 
-I am a recent cybersecurity practitioner with a strong interest in technology and a dedication to solving complex security and infrastructure problems.
+I am a cybersecurity practitioner with a strong interest in building secure systems and solving real-world security and infrastructure challenges.
 
 ## Objective
-My journey in Information Technology has shaped a strong interest in Cybersecurity, and I am aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Technology has developed a strong interest in Cybersecurity, and I am aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, while also exploring opportunities in Security Operations, Vulnerability Management, and IAM Analyst roles.
 
 
 ## Skills
@@ -17,13 +17,10 @@ Skill                                      | Associated Project
 ------------------------------------------ | -------------------------------------------------------
 Active Directory Administration & Security | <a href="https://github.com/Ohdele/AD-HOMELAB-PROJECT">AD Homelab Project</a>
 SIEM Monitoring and SOC Analysis           | <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
-Security Automation & Orchestration (SOAR) | <a href="https://github.com/Ohdele/SOAR-EDR-Integration">SOAR + EDR Integration</a>
-Incident Detection and Response            | <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
-Threat Detection Engineering               | <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
+Security Automation & Orchestration (SOAR) | <a href="https://github.com/Ohdele/soar-edr-integration">SOAR EDR Integration</a>
 
 
 ## Tools
-[Provide tools and break them down into categories. Use chatgpt to help create the link]
 
 ### Network
 <div>
@@ -54,6 +51,10 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 
   <a href="https://n8n.io">
   <img src="https://img.shields.io/badge/-n8n_(Docker_SOAR)-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+</a>
+
+<a href="https://www.tines.com">
+<img src="https://img.shields.io/badge/-Tines-000000?style=for-the-badge" />
 </a>
 </div>
 
@@ -95,12 +96,11 @@ Threat Detection Engineering               | <a href="https://github.com/Ohdele/
 ## Projects
 
 ### <a href="https://github.com/Ohdele/AD-HOMELAB-PROJECT">AD Homelab Project</a>
-Deployed an Active Directory network (DFIR.local) with a Windows Server Domain Controller and a Windows 10 client, establishing a centralized telemetry pipeline via Sysmon and Splunk Universal Forwarder to an Ubuntu-hosted Splunk SIEM instance. Executed RDP brute-force simulations with Hydra and simulated MITRE ATT&CK persistence techniques using Atomic Red Team to analyze Windows Event logs (EventCode 4625/4624) and validate defensive monitoring capabilities.
+Deployed an Active Directory environment (DFIR.local) with a Windows Server Domain Controller and a Windows 10 client, establishing a centralized telemetry pipeline using Sysmon and Splunk Universal Forwarder into an Ubuntu-hosted Splunk SIEM instance. Simulated RDP brute-force attacks using Hydra and executed MITRE ATT&CK-based persistence techniques using Atomic Red Team to analyze Windows Event Logs (EventCode 4625/4624) and validate detection and monitoring capabilities.
 
 ### <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
-Built an automated incident response pipeline utilizing n8n to ingest Splunk SIEM alerts, execute dynamic threat intelligence enrichment via AbuseIPDB API, perform AI-driven risk analysis using Google Gemini, and deliver structured, actionable alerts directly to Slack.
+Built an automated incident response pipeline using n8n to ingest Splunk SIEM alerts, enrich threat data via AbuseIPDB API, perform AI-driven risk analysis using Google Gemini, and deliver structured alerts to Slack for analyst action.
 
-### SOAR + EDR Integration
-
-Integrated SOAR workflows with endpoint detection tools to simulate incident response automation and security orchestration.
+### <a href="https://github.com/Ohdele/soar-edr-integration">SOAR EDR Integration</a>
+Developed a SOAR-driven incident response workflow integrating LimaCharlie EDR with Tines to automate detection ingestion, alerting (Slack/email), analyst approval flow, and endpoint isolation with post-action validation.
 
