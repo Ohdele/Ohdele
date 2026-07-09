@@ -5,10 +5,10 @@
 </a>
 
 
-I am a cybersecurity practitioner with a strong interest in building secure systems and solving real-world security and infrastructure challenges.
+I am a cybersecurity practitioner focused on Security Operations, SIEM monitoring, detection engineering, and security automation. I build hands-on security labs that simulate real-world environments using enterprise tools and workflows.
 
 ## Objective
-My journey in Information Technology has developed a strong interest in Cybersecurity, and I am aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, while also exploring opportunities in Security Operations, Vulnerability Management, and IAM Analyst roles.
+Cybersecurity practitioner building hands-on experience in Security Operations, SIEM monitoring, detection engineering, incident response, security automation, and identity security. Seeking opportunities as a SOC Analyst, Security Engineer, Incident Response Analyst, or IAM Engineer where I can apply practical skills in threat detection, investigation, and security operations.
 
 
 ## Skills
@@ -18,7 +18,8 @@ Skill                                      | Associated Project
 Active Directory Administration & Security | <a href="https://github.com/Ohdele/AD-HOMELAB-PROJECT">AD Homelab Project</a>
 SIEM Monitoring and SOC Analysis           | <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
 Security Automation & Orchestration (SOAR) | <a href="https://github.com/Ohdele/soar-edr-integration">SOAR EDR Integration</a>
-
+SIEM Monitoring & Detection Engineering    | <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC ELK Detection Lab</a>
+                                           
 
 ## Tools
 
@@ -33,11 +34,20 @@ Security Automation & Orchestration (SOAR) | <a href="https://github.com/Ohdele/
 </a>
 </div>
 
+### Platform
+<div>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</div>
+
 ### Endpoint
 <div>
   <img src="https://img.shields.io/badge/Windows_Server_w%2F_Active_Directory-0078D4?style=for-the-badge&logo=windows-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows_Event_Viewer-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Sysmon-333333?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
   <a href="https://limacharlie.io">
     <img src="https://img.shields.io/badge/-LimaCharlie-6A1B9A?style=for-the-badge" />
   </a>
@@ -49,8 +59,12 @@ Security Automation & Orchestration (SOAR) | <a href="https://github.com/Ohdele/
 <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </a>
 
-  <a href="https://n8n.io">
-  <img src="https://img.shields.io/badge/-n8n_(Docker_SOAR)-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+<a href="https://www.elastic.co">
+<img src="https://img.shields.io/badge/-Elastic%20Stack%20%7C%20Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+</a>
+
+<a href="https://n8n.io">
+<img src="https://img.shields.io/badge/-n8n_(Docker_SOAR)-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
 </a>
 
 <a href="https://www.tines.com">
@@ -104,3 +118,5 @@ Built an automated incident response pipeline using n8n to ingest Splunk SIEM al
 ### <a href="https://github.com/Ohdele/soar-edr-integration">SOAR EDR Integration</a>
 Developed a SOAR-driven incident response workflow integrating LimaCharlie EDR with Tines to automate detection ingestion, alerting (Slack/email), analyst approval flow, and endpoint isolation with post-action validation.
 
+### <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC ELK Detection Lab</a>
+Built an end-to-end SOC detection lab using Elastic Stack to simulate centralized monitoring across Windows and Linux environments. Deployed Elasticsearch, Kibana, Fleet Server, and Elastic Agent for log collection, integrated Windows Security logs, Sysmon, and Microsoft Defender telemetry, and validated security event ingestion for detection and investigation workflows.
