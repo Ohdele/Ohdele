@@ -8,7 +8,7 @@
 I am a cybersecurity practitioner focused on Security Operations, SIEM monitoring, detection engineering, and security automation. I build hands-on security labs that simulate real-world environments using enterprise tools and workflows.
 
 ## Objective
-Cybersecurity practitioner building hands-on experience in Security Operations, SIEM monitoring, detection engineering, incident response, security automation, and identity security. Seeking opportunities as a SOC Analyst, Security Engineer, Incident Response Analyst, or IAM Engineer where I can apply practical skills in threat detection, investigation, and security operations.
+Cybersecurity practitioner building hands-on experience in Security Operations, SIEM monitoring, detection engineering, incident response, security automation, and identity security. Seeking opportunities as a SOC Analyst, Security Engineer or Incident Response Analyst, where I can apply practical skills in threat detection, investigation, and security operations.
 
 
 ## Skills
