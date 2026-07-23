@@ -29,15 +29,13 @@ SIEM Monitoring & Detection Engineering    | <a href="https://github.com/Ohdele/
 <a href="https://www.wireshark.org">
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </a>
-
-<a href="https://nmap.org">
-<img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge" />
-</a>
 </div>
 
 ### Platform
 <div>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n_(SOAR)-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tines-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
@@ -70,14 +68,6 @@ SIEM Monitoring & Detection Engineering    | <a href="https://github.com/Ohdele/
 
 <a href="https://www.elastic.co">
 <img src="https://img.shields.io/badge/-Elastic%20Stack%20%7C%20Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-</a>
-
-<a href="https://n8n.io">
-<img src="https://img.shields.io/badge/-n8n_(Docker_SOAR)-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
-</a>
-
-<a href="https://www.tines.com">
-<img src="https://img.shields.io/badge/-Tines-000000?style=for-the-badge" />
 </a>
 </div>
 
