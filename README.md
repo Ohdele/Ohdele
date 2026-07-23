@@ -5,10 +5,11 @@
 </a>
 
 
-I am a cybersecurity practitioner focused on Security Operations, SIEM monitoring, detection engineering, and security automation. I build hands-on security labs that simulate real-world environments using enterprise tools and workflows.
+I am a Cybersecurity professional focused on Security Operations (SOC), SIEM monitoring, detection engineering, incident response, and security automation.
+I build hands-on cybersecurity labs that simulate real-world enterprise environments using SIEM, EDR, SOAR, threat intelligence, and adversary simulation tools. My projects demonstrate experience in log analysis, threat detection, security workflow automation, and investigation-driven security operations.
 
 ## Objective
-Cybersecurity practitioner building hands-on experience in Security Operations, SIEM monitoring, detection engineering, incident response, security automation, and identity security. Seeking opportunities as a SOC Analyst, Security Engineer or Incident Response Analyst, where I can apply practical skills in threat detection, investigation, and security operations.
+Cybersecurity practitioner building hands-on experience in Security Operations, SIEM monitoring, detection engineering, incident response, security automation, and identity security. Seeking opportunities as a SOC Analyst, Security Engineer, or Incident Response Analyst to apply hands-on experience in threat detection, log analysis, security investigations, and building security workflows using enterprise security tools.
 
 
 ## Skills
@@ -40,6 +41,8 @@ SIEM Monitoring & Detection Engineering    | <a href="https://github.com/Ohdele/
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/osTicket-2C3E50?style=for-the-badge&logo=osticket&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -51,6 +54,12 @@ SIEM Monitoring & Detection Engineering    | <a href="https://github.com/Ohdele/
   <a href="https://limacharlie.io">
     <img src="https://img.shields.io/badge/-LimaCharlie-6A1B9A?style=for-the-badge" />
   </a>
+</div>
+
+### Framework
+<div>
+  <img src="https://img.shields.io/badge/Mythic_C2-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Atomic_Red_Team-000000?style=for-the-badge" />
 </div>
 
 ### SIEM
@@ -82,6 +91,9 @@ SIEM Monitoring & Detection Engineering    | <a href="https://github.com/Ohdele/
   </a>
   <a href="https://slack.com">
     <img src="https://img.shields.io/badge/-Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  </a>
+  <a href="https://www.virustotal.com">
+    <img src="https://img.shields.io/badge/-VirusTotal_API-394EFF?style=for-the-badge" />
   </a>
 </div>
 
@@ -119,4 +131,4 @@ Built an automated incident response pipeline using n8n to ingest Splunk SIEM al
 Developed a SOAR-driven incident response workflow integrating LimaCharlie EDR with Tines to automate detection ingestion, alerting (Slack/email), analyst approval flow, and endpoint isolation with post-action validation.
 
 ### <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC ELK Detection Lab</a>
-Built an end-to-end SOC detection lab using Elastic Stack to simulate centralized monitoring across Windows and Linux environments. Deployed Elasticsearch, Kibana, Fleet Server, and Elastic Agent for log collection, integrated Windows Security logs, Sysmon, and Microsoft Defender telemetry, and validated security event ingestion for detection and investigation workflows.
+Built an end-to-end SOC detection and investigation lab using Elastic Stack to simulate enterprise monitoring across Windows and Linux environments. Deployed Elasticsearch, Kibana, Fleet Server, and Elastic Agent for centralized telemetry collection, integrated Windows Security logs, Sysmon, Microsoft Defender, and Linux authentication logs, and developed detection rules and dashboards for brute-force activity and adversary behavior. Implemented Mythic C2 attack simulations, mapped attacker activity to MITRE ATT&CK techniques, and integrated Elastic with osTicket for automated alert ticket creation and incident tracking workflows.
