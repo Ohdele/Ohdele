@@ -9,7 +9,7 @@ I am a Cybersecurity professional focused on Security Operations (SOC), SIEM mon
 I build hands-on cybersecurity labs that simulate real-world enterprise environments using SIEM, EDR, SOAR, threat intelligence, and adversary simulation tools. My projects demonstrate experience in log analysis, threat detection, security workflow automation, and investigation-driven security operations.
 
 ## Objective
-Cybersecurity practitioner building hands-on experience in Security Operations, SIEM monitoring, detection engineering, incident response, security automation, and identity security. Seeking opportunities as a SOC Analyst, Security Engineer, or Incident Response Analyst to apply hands-on experience in threat detection, log analysis, security investigations, and building security workflows using enterprise security tools.
+Applying skills in Security Operations, SIEM monitoring, detection engineering, incident response, security automation, and identity security. Seeking opportunities as a SOC Analyst, Security Engineer, or Incident Response Analyst to contribute to threat detection, log analysis, security investigations, and building security workflows using enterprise security tools.
 
 
 ## Skills
