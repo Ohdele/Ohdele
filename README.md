@@ -37,7 +37,6 @@ SIEM Monitoring & Detection Engineering    | <a href="https://github.com/Ohdele/
   <img src="https://img.shields.io/badge/n8n_(SOAR)-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Tines-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/osTicket-2C3E50?style=for-the-badge&logo=osticket&logoColor=white" />
