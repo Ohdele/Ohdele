@@ -6,20 +6,21 @@
 
 
 I am a Cybersecurity professional focused on Security Operations (SOC), SIEM monitoring, detection engineering, incident response, and security automation.
-I build hands-on cybersecurity labs that simulate real-world enterprise environments using SIEM, EDR, SOAR, threat intelligence, and adversary simulation tools. My projects demonstrate experience in log analysis, threat detection, security workflow automation, and investigation-driven security operations.
+I build hands-on cybersecurity labs that simulate real-world enterprise environments using SIEM, EDR, SOAR, threat intelligence, AI and adversary simulation tools. My projects demonstrate experience in log analysis, threat detection, security workflow automation, and AI-assisted threat hunt and analysis.
 
 ## Objective
-Applying skills in Security Operations, SIEM monitoring, detection engineering, incident response, security automation, and identity security. Seeking opportunities as a SOC Analyst, Security Engineer, or Incident Response Analyst to contribute to threat detection, log analysis, security investigations, and building security workflows using enterprise security tools.
+Applying skills in Security Operations, SIEM monitoring, detection engineering, incident response, threat hunting, security automation, AI-assisted security operations, and identity security. Seeking opportunities as a SOC Analyst, Security Engineer, or Incident Response Analyst to contribute to threat detection, log analysis, security investigations, and building security workflows using enterprise security tools.
 
 
 ## Skills
 
-Skill                                      | Associated Project
------------------------------------------- | -------------------------------------------------------
-Active Directory Administration & Security | <a href="https://github.com/Ohdele/AD-HOMELAB-PROJECT">AD Homelab Project</a>
-SIEM Monitoring and SOC Analysis           | <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
-Security Automation & Orchestration (SOAR) | <a href="https://github.com/Ohdele/soar-edr-integration">SOAR EDR Integration</a>
-SIEM Monitoring & Detection Engineering    | <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC ELK Detection Lab</a>
+Skill                                       |   Associated Project
+------------------------------------------  | ----------------------------------------------------------------------------
+Active Directory Administration & Security  | <a href="https://github.com/Ohdele/AD-HOMELAB-PROJECT">AD Homelab Project</a>
+SIEM Monitoring and SOC Analysis            | <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
+Security Automation & Orchestration (SOAR)  | <a href="https://github.com/Ohdele/soar-edr-integration">SOAR EDR Integration</a>
+SIEM Monitoring & Detection Engineering     | <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC ELK Detection Lab</a>
+AI-Assisted SOC Operations & Threat Hunting | <a href="https://github.com/Ohdele/AI-SOC-Agent-Project-2.0">AI SOC Agent 2.0</a>
                                            
 
 ## Tools
@@ -29,11 +30,16 @@ SIEM Monitoring & Detection Engineering    | <a href="https://github.com/Ohdele/
 <a href="https://www.wireshark.org">
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </a>
+<a href="https://nmap.org">
+<img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+</a>
 </div>
 
 ### Platform
 <div>
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n_(SOAR)-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Tines-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -57,6 +63,7 @@ SIEM Monitoring & Detection Engineering    | <a href="https://github.com/Ohdele/
 <div>
   <img src="https://img.shields.io/badge/Mythic_C2-8B0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Atomic_Red_Team-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ### SIEM
@@ -83,6 +90,9 @@ SIEM Monitoring & Detection Engineering    | <a href="https://github.com/Ohdele/
   </a>
   <a href="https://www.virustotal.com">
     <img src="https://img.shields.io/badge/-VirusTotal_API-394EFF?style=for-the-badge" />
+  </a>
+  <a href="https://deepmind.google/technologies/gemini/">
+    <img src="https://img.shields.io/badge/-Google_Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
   </a>
 </div>
 
@@ -121,3 +131,6 @@ Developed a SOAR-driven incident response workflow integrating LimaCharlie EDR w
 
 ### <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC ELK Detection Lab</a>
 Built an end-to-end SOC detection and investigation lab using Elastic Stack to simulate enterprise monitoring across Windows and Linux environments. Deployed Elasticsearch, Kibana, Fleet Server, and Elastic Agent for centralized telemetry collection, integrated Windows Security logs, Sysmon, Microsoft Defender, and Linux authentication logs, and developed detection rules and dashboards for brute-force activity and adversary behavior. Implemented Mythic C2 attack simulations, mapped attacker activity to MITRE ATT&CK techniques, and integrated Elastic with osTicket for automated alert ticket creation and incident tracking workflows.
+
+### <a href="https://github.com/Ohdele/AI-SOC-Agent-Project-2.0">AI SOC Agent 2.0</a>
+Built an AI-assisted SOC investigation workflow integrating Elastic Stack, Python automation, and Google Gemini to support security event investigation, threat hunting, evidence collection, and structured SOC reporting. Implemented Gemini tool-based workflows, Elastic query optimization, token/cost tracking, investigation guardrails, field-level access controls, model validation, and data minimization to improve investigation efficiency while controlling AI and telemetry usage.
