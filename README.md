@@ -122,16 +122,16 @@ AI-Assisted SOC Operations & Threat Hunting | <a href="https://github.com/Ohdele
 ## Projects
 
 ### <a href="https://github.com/Ohdele/AD-HOMELAB-PROJECT">AD Homelab Project</a>
-Deployed an Active Directory environment (DFIR.local) with a Windows Server Domain Controller and a Windows 10 client, establishing a centralized telemetry pipeline using Sysmon and Splunk Universal Forwarder into an Ubuntu-hosted Splunk SIEM instance. Simulated RDP brute-force attacks using Hydra and executed MITRE ATT&CK-based persistence techniques using Atomic Red Team to analyze Windows Event Logs (EventCode 4625/4624) and validate detection and monitoring capabilities.
+Deployed an Active Directory SOC environment with Splunk and Sysmon for centralized monitoring, then simulated RDP brute-force and MITRE ATT&CK techniques using Hydra and Atomic Red Team to validate detection workflows.
 
 ### <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
-Built an automated incident response pipeline using n8n to ingest Splunk SIEM alerts, enrich threat data via AbuseIPDB API, perform AI-driven risk analysis using Google Gemini, and deliver structured alerts to Slack for analyst action.
+Built an automated incident response workflow using n8n, Splunk, AbuseIPDB, and Gemini for alert ingestion, IOC enrichment, AI-driven risk analysis, and structured analyst notifications.
 
 ### <a href="https://github.com/Ohdele/soar-edr-integration">SOAR EDR Integration</a>
-Developed a SOAR-driven incident response workflow integrating LimaCharlie EDR with Tines to automate detection ingestion, alerting (Slack/email), analyst approval flow, and endpoint isolation with post-action validation.
+Developed a SOAR/EDR incident response workflow using LimaCharlie and Tines to automate detection, alerting, analyst approval, and endpoint isolation with post-action validation.
 
 ### <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC ELK Detection Lab</a>
-Built an end-to-end SOC detection and investigation lab using Elastic Stack to simulate enterprise monitoring across Windows and Linux environments. Deployed Elasticsearch, Kibana, Fleet Server, and Elastic Agent for centralized telemetry collection, integrated Windows Security logs, Sysmon, Microsoft Defender, and Linux authentication logs, and developed detection rules and dashboards for brute-force activity and adversary behavior. Implemented Mythic C2 attack simulations, mapped attacker activity to MITRE ATT&CK techniques, and integrated Elastic with osTicket for automated alert ticket creation and incident tracking workflows.
+Built a SOC detection and investigation environment using Elastic Stack, Sysmon, and Elastic Defend to monitor brute-force activity and C2 behavior, investigate alerts, map adversary activity to MITRE ATT&CK, and automate osTicket incident tracking.
 
 ### <a href="https://github.com/Ohdele/AI-SOC-Agent-Project-2.0">AI SOC Agent 2.0</a>
-Built an AI-assisted SOC investigation workflow integrating Elastic Stack, Python automation, and Google Gemini to support security event investigation, threat hunting, evidence collection, and structured SOC reporting. Implemented Gemini tool-based workflows, Elastic query optimization, token/cost tracking, investigation guardrails, field-level access controls, model validation, and data minimization to improve investigation efficiency while controlling AI and telemetry usage.
+Built an AI-assisted SOC investigation workflow using Elastic, Python, and Gemini for threat hunting, evidence collection, structured investigations, and SOC reporting, with tool-based workflows, query optimization, security guardrails, and token/cost controls.
