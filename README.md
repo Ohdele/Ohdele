@@ -5,11 +5,12 @@
 </a>
 
 
-I am a Cybersecurity professional focused on Security Operations (SOC), SIEM monitoring, detection engineering, incident response, and security automation.
-I build hands-on cybersecurity labs that simulate real-world enterprise environments using SIEM, EDR, SOAR, threat intelligence, AI and adversary simulation tools. My projects demonstrate experience in log analysis, threat detection, security workflow automation, and AI-assisted threat hunt and analysis.
+SOC Analyst with hands-on experience in Active Directory security, SIEM monitoring, EDR and AI-driven SOAR automation. I leverage Splunk, Elastic, LimaCharlie, and Tines to build labs and execute automated incident response workflows.
 
 ## Objective
-Applying skills in Security Operations, SIEM monitoring, detection engineering, incident response, threat hunting, security automation, AI-assisted security operations, and identity security. Seeking opportunities as a SOC Analyst, Security Engineer, or Incident Response Analyst to contribute to threat detection, log analysis, security investigations, and building security workflows using enterprise security tools.
+Seeking SOC Analyst, Security Operations, or IAM Analyst roles to apply skills in security monitoring, detection, investigation, identity security, and automated response to strengthen organizational defenses.
+
+Open to remote international roles.
 
 
 ## Skills
@@ -40,13 +41,11 @@ AI-Assisted SOC Operations & Threat Hunting | <a href="https://github.com/Ohdele
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n_(SOAR)-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tines-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nessus-00A88F?style=for-the-badge&logo=tenable&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/osTicket-2C3E50?style=for-the-badge&logo=osticket&logoColor=white" />
+  <img src="https://img.shields.io/badge/osTicket-2C3E50?style=for-the-badge&logo=osTicket&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -65,6 +64,8 @@ AI-Assisted SOC Operations & Threat Hunting | <a href="https://github.com/Ohdele
   <img src="https://img.shields.io/badge/Mythic_C2-8B0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Atomic_Red_Team-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tines-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n_(SOAR)-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
 
 ### SIEM
@@ -75,6 +76,10 @@ AI-Assisted SOC Operations & Threat Hunting | <a href="https://github.com/Ohdele
 
 <a href="https://www.elastic.co">
 <img src="https://img.shields.io/badge/-Elastic%20Stack%20%7C%20Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+</a>
+
+<a href="https://wazuh.com">
+<img src="https://img.shields.io/badge/-Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
 </a>
 </div>
 
@@ -91,9 +96,6 @@ AI-Assisted SOC Operations & Threat Hunting | <a href="https://github.com/Ohdele
   </a>
   <a href="https://www.virustotal.com">
     <img src="https://img.shields.io/badge/-VirusTotal_API-394EFF?style=for-the-badge" />
-  </a>
-  <a href="https://deepmind.google/technologies/gemini/">
-    <img src="https://img.shields.io/badge/-Google_Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
   </a>
 </div>
 
@@ -122,16 +124,16 @@ AI-Assisted SOC Operations & Threat Hunting | <a href="https://github.com/Ohdele
 ## Projects
 
 ### <a href="https://github.com/Ohdele/AD-HOMELAB-PROJECT">AD Homelab Project</a>
-Deployed an Active Directory SOC environment with Splunk and Sysmon for centralized monitoring, then simulated RDP brute-force and MITRE ATT&CK techniques using Hydra and Atomic Red Team to validate detection workflows.
+Deployed an Active Directory SOC environment with Splunk and Sysmon for centralized monitoring, simulating RDP brute-force and MITRE ATT&CK techniques using Hydra and Atomic Red Team to validate detection workflows.
 
 ### <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
-Built an automated incident response workflow using n8n, Splunk, AbuseIPDB, and Gemini for alert ingestion, IOC enrichment, AI-driven risk analysis, and structured analyst notifications.
+Orchestrated an automated incident response pipeline with n8n, Splunk, AbuseIPDB, and Gemini to drive alert ingestion, IOC enrichment, AI-driven risk scoring, and analyst notifications.
 
 ### <a href="https://github.com/Ohdele/soar-edr-integration">SOAR EDR Integration</a>
-Developed a SOAR/EDR incident response workflow using LimaCharlie and Tines to automate detection, alerting, analyst approval, and endpoint isolation with post-action validation.
+Integrated LimaCharlie with Tines to build a SOAR/EDR workflow automating detection, alerting, analyst approval, and endpoint isolation with post-action validation.
 
 ### <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC ELK Detection Lab</a>
-Built a SOC detection and investigation environment using Elastic Stack, Sysmon, and Elastic Defend to monitor brute-force activity and C2 behavior, investigate alerts, map adversary activity to MITRE ATT&CK, and automate osTicket incident tracking.
+Constructed a detection environment using Elastic Stack, Sysmon, and Elastic Defend to investigate brute-force and C2 activity, map adversary behaviors to MITRE ATT&CK, and streamline osTicket incident tracking.
 
 ### <a href="https://github.com/Ohdele/AI-SOC-Agent-Project-2.0">AI SOC Agent 2.0</a>
-Built an AI-assisted SOC investigation workflow using Elastic, Python, and Gemini for threat hunting, evidence collection, structured investigations, and SOC reporting, with tool-based workflows, query optimization, security guardrails, and token/cost controls.
+Designed an AI-assisted SOC investigation workflow with Elastic, Python, and Gemini, empowering threat hunting, evidence collection, and structured reporting through query optimization, guardrails, and cost controls.
