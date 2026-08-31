@@ -64,6 +64,9 @@ AI-Assisted SOC Operations & Threat Hunting                     | <a href="https
   <img src="https://img.shields.io/badge/Mythic_C2-8B0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Atomic_Red_Team-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/BloodHound-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NetExec-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tines-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/n8n_(SOAR)-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
