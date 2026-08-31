@@ -123,11 +123,11 @@ AI-Assisted SOC Operations & Threat Hunting                     | <a href="https
 
 ## Projects
 
-### <a href="https://github.com/Ohdele/AD-HOMELAB-PROJECT">AD Homelab Project</a>
-Deployed an Active Directory SOC environment with Splunk and Sysmon for centralized monitoring, simulating RDP brute-force and MITRE ATT&CK techniques using Hydra and Atomic Red Team to validate detection workflows.
+### <a href="https://github.com/Ohdele/Active-Directory-Homelab">Active Directory Homelab</a>
+Deployed a repeatable Active Directory security lab covering IAM, JML lifecycle automation, PowerShell provisioning, access reviews, BloodHound attack-path analysis, credential exposure, Kerberoasting, and controlled red-team testing.
 
-### <a href="https://github.com/Ohdele/SOC-Automation-AI">SOC Automation with AI</a>
-Orchestrated an automated incident response pipeline with n8n, Splunk, AbuseIPDB, and Gemini to drive alert ingestion, IOC enrichment, AI-driven risk scoring, and analyst notifications.
+### <a href="https://github.com/Ohdele/Wazuh-SOC-Lab">Wazuh SOC Lab</a>
+Engineered an on-premises Wazuh SOC environment for centralized Windows/Linux monitoring, detection engineering, FIM, security investigations, and automated Active Response.
 
 ### <a href="https://github.com/Ohdele/soar-edr-integration">SOAR EDR Integration</a>
 Integrated LimaCharlie with Tines to build a SOAR/EDR workflow automating detection, alerting, analyst approval, and endpoint isolation with post-action validation.
