@@ -132,7 +132,7 @@ Deployed a repeatable Active Directory security lab covering IAM, JML lifecycle 
 ### <a href="https://github.com/Ohdele/Wazuh-SOC-Lab">Wazuh SOC Project</a>
 Engineered an on-premises Wazuh SOC environment for centralized Windows/Linux monitoring, detection engineering, FIM, security investigations, and automated Active Response.
 
-### <a href="https://github.com/Ohdele/Splunk-SOAR-EDR-Integration">SOC Monitoring, Automation & SOAR/EDR</a>
+### <a href="https://github.com/Ohdele/Splunk-SOAR-EDR-Integration">Splunk SOAR-EDR Integeration</a>
 Evolved a practical SOC environment from centralized Splunk monitoring and manual investigation through AI-assisted alert analysis and threat-intelligence enrichment to analyst-approved SOAR/EDR response with automated endpoint containment and validation.
 
 ### <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC ELK Detection Project</a>
