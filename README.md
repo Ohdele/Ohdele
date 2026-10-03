@@ -20,7 +20,7 @@ Skill                                                           |   Associated P
 Identity & Access Management (IAM) & Active Directory Security  | <a href="https://github.com/Ohdele/Active-Directory-Homelab">Active Directory Homelab</a>
 SIEM Monitoring and SOC Analysis                                | <a href="https://github.com/Ohdele/Wazuh-SOC-Lab">Wazuh SOC Project</a>
 Security Automation & Orchestration (SOAR)                      | <a href="https://github.com/Ohdele/Splunk-SOAR-EDR-Integration">Splunk SOAR-EDR Integration</a>
-SIEM Monitoring & Detection Engineering                         | <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC ELK Detection Lab</a>
+SIEM Monitoring & Detection Engineering                         | <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC ELK Detection Project</a>
 AI-Assisted SOC Operations & Threat Hunting                     | <a href="https://github.com/Ohdele/AI-SOC-Agent-Project-2.0">AI SOC Agent 2.0</a>
                                            
 
