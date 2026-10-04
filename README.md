@@ -20,7 +20,7 @@ Skill                                                           |   Associated P
 Identity & Access Management (IAM) & Active Directory Security  | <a href="https://github.com/Ohdele/Active-Directory-Homelab">Active Directory Homelab</a>
 SIEM Monitoring and SOC Analysis                                | <a href="https://github.com/Ohdele/Wazuh-SOC-Lab">Wazuh SOC Project</a>
 Security Automation & Orchestration (SOAR)                      | <a href="https://github.com/Ohdele/Splunk-SOAR-EDR-Integration">Splunk SOAR-EDR Integration</a>
-SIEM Monitoring & Detection Engineering                         | <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC ELK Detection Project</a>
+SIEM Monitoring & Detection Engineering                         | <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC Elastic Stack Detection Project</a>
 AI-Assisted SOC Operations & Threat Hunting                     | <a href="https://github.com/Ohdele/AI-SOC-Agent-Project-2.0">AI SOC Agent 2.0</a>
                                            
 
@@ -135,7 +135,7 @@ Engineered an on-premises Wazuh SOC environment for centralized Windows/Linux mo
 ### <a href="https://github.com/Ohdele/Splunk-SOAR-EDR-Integration">Splunk SOAR-EDR Integeration</a>
 Evolved a practical SOC environment from centralized Splunk monitoring and manual investigation through AI-assisted alert analysis and threat-intelligence enrichment to analyst-approved SOAR/EDR response with automated endpoint containment and validation.
 
-### <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC ELK Detection Project</a>
+### <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC Elastic Stack Detection Project</a>
 Constructed a detection environment using Elastic Stack, Sysmon, and Elastic Defend to investigate brute-force and C2 activity, map adversary behaviors to MITRE ATT&CK, and streamline osTicket incident tracking.
 
 ### <a href="https://github.com/Ohdele/AI-SOC-Agent-Project-2.0">AI SOC Agent 2.0</a>
