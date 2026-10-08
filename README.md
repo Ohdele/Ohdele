@@ -132,11 +132,11 @@ Deployed a repeatable Active Directory security lab covering IAM, JML lifecycle 
 ### <a href="https://github.com/Ohdele/Wazuh-SOC-Lab">Wazuh SOC Project</a>
 Engineered an on-premises Wazuh SOC environment for centralized Windows/Linux monitoring, detection engineering, FIM, security investigations, and automated Active Response.
 
-### <a href="https://github.com/Ohdele/Splunk-SOAR-EDR-Integration">Splunk SOAR-EDR Integeration</a>
-Evolved a practical SOC environment from centralized Splunk monitoring and manual investigation through AI-assisted alert analysis and threat-intelligence enrichment to analyst-approved SOAR/EDR response with automated endpoint containment and validation.
+### <a href="https://github.com/Ohdele/Splunk-SOAR-EDR-Integration">Splunk SOAR-EDR Integration</a>
+Evolved a practical SOC environment from centralized Splunk monitoring and manual investigation through AI-assisted alert analysis and threat-intelligence enrichment to analyst-approved SOAR/EDR response with automated endpoint containment and validation; **achieved endpoint containment in under 1 minute from detection through LimaCharlie EDR and Tines SOAR integration.**
 
 ### <a href="https://github.com/Ohdele/SOC-ELK-Detection-Lab">SOC Elastic Stack Detection Project</a>
-Constructed a detection environment using Elastic Stack, Sysmon, and Elastic Defend to investigate brute-force and C2 activity, map adversary behaviors to MITRE ATT&CK, and streamline osTicket incident tracking.
+Constructed a detection environment using Elastic Stack, Sysmon, and Elastic Defend to investigate brute-force and C2 activity, map adversary behaviors to MITRE ATT&CK and streamline osTicket incident tracking.
 
 ### <a href="https://github.com/Ohdele/AI-SOC-Agent-Project-2.0">AI SOC Agent 2.0</a>
-Designed an AI-assisted SOC investigation workflow with Elastic, Python, and Gemini, empowering threat hunting, evidence collection, and structured reporting through query optimization, guardrails, and cost controls.
+Designed an AI-assisted SOC investigation workflow with Elastic, Python and Gemini for threat hunting, evidence collection, and structured reporting; **reduced investigation query data by ~40% (9,299 to 5,604 tokens) through Elastic query optimization**, with guardrails and cost controls.
